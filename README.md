@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Raj-Rabari
 - 👀 I’m interested in full stack web development roles.
-- 🌱 I’m currently learning blockchain devleopment.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 Email : rajrabari8667@gmail.com
 
